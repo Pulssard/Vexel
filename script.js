@@ -1,8 +1,5 @@
 'use strict';
 
-///////////////////////////////////////
-// Modal window
-
 const modal = document.querySelector('.modal');
 const overlay = document.querySelector('.overlay');
 const btnCloseModal = document.querySelector('.btn--close-modal');
@@ -227,7 +224,7 @@ menu.addEventListener('click', function(e) {
   const navLinks = document.querySelector('.nav__links');
   navLinks.classList.toggle('burger-links');
   window.addEventListener('click', function(e){
-    if(!e.target.classList.contains('line') || e.target.classList.contains('burger-menu')){
+    if(e.target.closest('burger-menu')){
       navLinks.classList.remove('burger-links');
     }
   })
