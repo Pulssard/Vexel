@@ -8,7 +8,6 @@ Vexel is a fictional banking application created as part of the "Advanced DOM Ma
 2. [Demo](#demo)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
 6. [License](#license)
 
 ## Techniques Used
@@ -40,4 +39,4 @@ To run Vexel locally, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
