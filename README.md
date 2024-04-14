@@ -21,7 +21,7 @@ Vexel utilizes various DOM manipulation techniques, including:
 
 ## Demo
 
-vexel.netlify.com
+vexel-m.netlify.com
 
 ## Installation
 
