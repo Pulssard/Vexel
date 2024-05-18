@@ -21,8 +21,7 @@ Vexel utilizes various DOM manipulation techniques, including:
 
 ## Demo
 
-vexel-m.netlify.app
-
+https://vexel-m.netlify.app/
 ## Installation
 
 To run Vexel locally, follow these steps:
