@@ -456,7 +456,7 @@ h4 {
 
 .dots {
   position: absolute;
-  bottom: 5%;
+  bottom: 0;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
@@ -723,6 +723,7 @@ h4 {
   }
   .testimonial__text{
     font-size: 1.1rem;
+
   }
   .slider{
     overflow-y: visible;
@@ -762,7 +763,9 @@ h4 {
   .section__header{
     font-size: 2rem;
   }
-
+  .testimonial__text{
+    margin-bottom: 1rem;
+  }
 }
 
 .burger-links{
